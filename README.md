@@ -38,8 +38,8 @@ A powerful AI-driven data analysis agent built with LangChain and Streamlit that
    pip install -r requirements.txt
    ```
 
-4. **Set up environment variables**
-   Create a `.env` file in the project root:
+4. **Set up environment variables: **
+   Paste Your Google Gemini API key in the .env file
    ```env
    GOOGLE_API_KEY=your_google_api_key_here
    ```
